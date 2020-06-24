@@ -1,0 +1,13 @@
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.exe
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.deps.json
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.runtimeconfig.json
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.runtimeconfig.dev.json
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.dll
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\bin\Debug\netcoreapp3.1\cSharpTest.pdb
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.csprojAssemblyReference.cache
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.AssemblyInfoInputs.cache
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.AssemblyInfo.cs
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.dll
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.pdb
+C:\Users\Tobias Frederiksen\Desktop\cSharpTest\obj\Debug\netcoreapp3.1\cSharpTest.genruntimeconfig.cache
